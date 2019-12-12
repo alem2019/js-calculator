@@ -1,0 +1,2 @@
+#Javascript Basic Calculator
+Here is a simple javascript calculator. The calculator handles decimals numbers as well as percents. I believe the source file is well commented so, if you are interested to know how it is made, you can check the js and the CSS file.
